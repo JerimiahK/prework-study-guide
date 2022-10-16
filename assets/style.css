@@ -11,9 +11,16 @@ footer {
     color: rgb(106, 202, 217);
 }
 
-h1,
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(32, 238, 246);
+}
+
 h2 {
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 20, 212);
 }
 
 img {
